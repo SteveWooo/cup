@@ -1,0 +1,5 @@
+{
+    "bertServicePort": 19531,
+    "milvusServiceAddress": "192.168.0.108:19530",
+    "debug": true
+}
